@@ -1,0 +1,32 @@
+{
+  "name": "p2p-car-rental",
+  "version": "1.0.0",
+  "description": "P2P Car Rental Platform for Indian Market",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.5",
+    "@mui/material": "^5.14.5",
+    "@mui/x-date-pickers": "^7.28.2",
+    "axios": "^1.4.0",
+    "date-fns": "^4.1.0",
+    "formik": "^2.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "terser": "^5.39.0",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "typescript": "^5.0.2",
+    "vite": "^6.2.4"
+  }
+}
